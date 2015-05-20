@@ -76,6 +76,15 @@ se muestra en la Fig. 3.
 **Figura 3.** Histograma y curva de densidad normal de probabilidad ajustada.
 ![Histograma](HistoNormal.jpg)
 
+# Notas
+Para llevar a un buen término este proyecto es conveniente revisar la documentación,  
+por lo menos, de las siguientes funciones: 
+
+plot(), curve(), read.table(), mean(), sd(), ord(), min(), max(), which.min(),  
+which.max(), paste(), data.frame(), abline(), lm(), legend(), dnorm(),  
+hist(), etc.
+
+
 
 
 
