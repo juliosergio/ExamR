@@ -68,6 +68,10 @@ mínimo y máximo del nivel de aprobación, y que con base en eso imprima la fec
 y la organización encuestadora correspondiente al valor mínimo y al valor máximo  
 de aprobación.
 
+Este ejercicio se deberá hacer para el conjunto total de datos, y para el  
+subconjunto filtrado, es decir, para los datos que corresponden solamente  
+a la organización encuestadora "FOX News".
+
 # 4. Histograma y función de densidad
 Hacer el histograma y la función de densidad de probabilidades **normal**, que  
 se ajusta a la totalidad de los datos. El resultado debe ser semejante al que  
@@ -81,7 +85,7 @@ Para llevar a un buen término este proyecto es conveniente revisar la documenta
 por lo menos, de las siguientes funciones: 
 
 plot(), curve(), read.table(), mean(), sd(), ord(), min(), max(), which.min(),  
-which.max(), paste(), data.frame(), abline(), lm(), legend(), dnorm(),  
+which.max(), as.Date(), paste(), data.frame(), abline(), lm(), legend(), dnorm(),  
 hist(), etc.
 
 
