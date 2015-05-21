@@ -41,7 +41,8 @@ Además incluir como un subtítulo en la gráfica el valor de la media, tal
 como se muestra también en la Fig. 1.
 
 ## 1.3. Modelo lineal
-Hacer un modelo lineal, que relacione las fechas con los niveles de   aprobación. Graficar, en negro, la línea recta resultante, y escribir  
+Hacer un modelo lineal, que relacione las fechas con los niveles de  
+aprobación. Graficar, en negro, la línea recta resultante, y escribir  
 en una leyenda los valores de la pendiente y la intersección de dicha  
 recta.
 
